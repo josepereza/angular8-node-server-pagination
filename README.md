@@ -9,7 +9,7 @@ For a demo and further details see https://jasonwatmore.com/post/2019/06/28/angu
    ```
 Despues pasamos el archivo index.html  y la carpeta app  de client a cientServer.
 
-Tenemos que agregar la ip del servidor api :
+Despues tenemos que agregar la ip del servidor api :
 ```
 private loadPage(page) {
         // get page of items from api
